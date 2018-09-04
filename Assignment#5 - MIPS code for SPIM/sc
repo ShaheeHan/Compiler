@@ -1,0 +1,4 @@
+yacc -d ex_5.y
+flex ex_5.l
+gcc lex.yy.c y.tab.c -lfl -o a.out
+./a.out

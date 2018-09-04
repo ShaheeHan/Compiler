@@ -1,0 +1,38 @@
+Div_4* 4
+
+Div_4* 96
+
+AssignOp =
+
+Signed +6
+
+Signed -12
+
+RelationOP <=
+
+Decimal 10.529941
+
+Decimal 45.0112
+
+Overflow 33333
+
+Hex 0xAA
+
+Oveflow 0xBBBFF
+
+Scientific number -13E-45
+
+Scientific number +12.1e+12
+
+Signed -12
+
+Signed +100
+
+ID jksAa1
+
+RelationOP <
+
+RelationOP >=
+
+Invalid input
+

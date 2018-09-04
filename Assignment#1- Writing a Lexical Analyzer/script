@@ -1,0 +1,4 @@
+#!/bin/bash
+lex mylexer.l
+gcc -o example lex.yy.c
+./example input.in output.out

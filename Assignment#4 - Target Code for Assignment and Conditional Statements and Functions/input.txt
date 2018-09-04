@@ -1,0 +1,11 @@
+x:=0;
+s:=0;
+
+m := r := 100,3+x;
+r ( y ,z)
+{
+x:=z;
+do x < y ? s:=s+x;
+ x:= x+2 od
+return s
+}

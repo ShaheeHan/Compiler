@@ -1,0 +1,5 @@
+#!/bin/bash
+bison parser1.y -d
+flex MyLexer.l
+gcc parser1.tab.c lex.yy.c -lfl -o out
+./out
